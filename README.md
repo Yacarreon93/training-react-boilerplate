@@ -1,4 +1,6 @@
-## Modern JavaScript Tooling with React [egghead](https://egghead.io/courses/modern-javascript-tooling-with-react)
+## Modern JavaScript Tooling with React
+
+Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-react)
 
 ### Lessons:
 
