@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
-    "watch": "webpack --watch --config webpack.config.dev.js",
+    "build:dev": "npm run build -- --config webpack.config.dev.js",
+    "watch": "npm run build:dev -- --watch",
     "dev": "webpack-dev-server --open --config webpack.config.dev.js",
-    "dev:hot": "webpack-dev-server --open --hot --config webpack.config.dev.js",
+    "dev:hot": "npm run dev -- --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

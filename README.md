@@ -28,3 +28,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 14. webpack automatically import css in javascript with webpack using style loader and css loader
 15. babel support proposed javascript features with babel plugins
 16. react hot reload a react app in development with react hot loader
+17. npm avoid duplicate commands by calling one npm script from another
