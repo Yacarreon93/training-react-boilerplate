@@ -25,3 +25,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 12. webpack serve a webpack bundle while developing with webpack dev server
     - webpack watch mode & browser reload
 13. chrome devtools generate source maps through webpack for a better debugging experience with source map
+14. webpack automatically import css in javascript with webpack using style loader and css loader
