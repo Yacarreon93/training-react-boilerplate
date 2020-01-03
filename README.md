@@ -17,3 +17,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 6. babel transform modern javascript features with babel
     - Use "$(npm bin)" istead of "node_modules", eg: $(npm bin)/babel ./src/greet.js
     - "$(npm bin)/babel ./src/greet.js --presets=@babel/preset-env
+7. babel configure webpack to load javascript files through babel with babel loader
