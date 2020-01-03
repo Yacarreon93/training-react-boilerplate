@@ -24,3 +24,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 11. webpack inject a javascript bundle into html with the htmlwebpackplugin
 12. webpack serve a webpack bundle while developing with webpack dev server
     - webpack watch mode & browser reload
+13. chrome devtools generate source maps through webpack for a better debugging experience with source map
