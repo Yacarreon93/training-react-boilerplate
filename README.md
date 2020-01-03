@@ -30,3 +30,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 16. react hot reload a react app in development with react hot loader
 17. npm avoid duplicate commands by calling one npm script from another
 18. webpack analyze a production javascript bundle with webpack bundle analyzer
+19. webpack externalize dependencies to be loaded via cdn with webpack
