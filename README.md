@@ -19,3 +19,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
     - "$(npm bin)/babel ./src/greet.js --presets=@babel/preset-env
 7. babel configure webpack to load javascript files through babel with babel loader
 8. react configure babel for react with preset react
+9. webpack create separate webpack configs for development and production with webpack merge

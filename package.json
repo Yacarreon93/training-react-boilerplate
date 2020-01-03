@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --config webpack.config.prod.js",
+    "dev": "webpack --watch --config webpack.config.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,7 +26,8 @@
     "@babel/preset-react": "^7.7.4",
     "babel-loader": "^8.0.6",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "webpack-merge": "^4.2.2"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
