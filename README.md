@@ -35,3 +35,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 21. react asynchronously load webpack bundles through code splitting and react suspense
 22. jest run a simple test with jest in a react app
 23. jest set up tests that render a react component with jest and babel
+24. jest set up testing globals in an application with jest
