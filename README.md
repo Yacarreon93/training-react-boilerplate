@@ -32,3 +32,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 18. webpack analyze a production javascript bundle with webpack bundle analyzer
 19. webpack externalize dependencies to be loaded via cdn with webpack
 20. babel target specific browsers with babel preset env and the babel pollyfill
+21. react asynchronously load webpack bundles through code splitting and react suspense
