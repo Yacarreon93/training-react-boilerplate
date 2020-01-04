@@ -34,3 +34,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 20. babel target specific browsers with babel preset env and the babel pollyfill
 21. react asynchronously load webpack bundles through code splitting and react suspense
 22. jest run a simple test with jest in a react app
+23. jest set up tests that render a react component with jest and babel
