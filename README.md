@@ -31,3 +31,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 17. npm avoid duplicate commands by calling one npm script from another
 18. webpack analyze a production javascript bundle with webpack bundle analyzer
 19. webpack externalize dependencies to be loaded via cdn with webpack
+20. babel target specific browsers with babel preset env and the babel pollyfill
