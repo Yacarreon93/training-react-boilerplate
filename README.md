@@ -33,3 +33,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 19. webpack externalize dependencies to be loaded via cdn with webpack
 20. babel target specific browsers with babel preset env and the babel pollyfill
 21. react asynchronously load webpack bundles through code splitting and react suspense
+22. jest run a simple test with jest in a react app

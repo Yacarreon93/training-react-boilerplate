@@ -9,7 +9,7 @@
     "watch": "npm run build:dev -- --watch",
     "dev": "webpack-dev-server --open --config webpack.config.dev.js",
     "dev:hot": "npm run dev -- --hot",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.4.1",
     "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
     "style-loader": "^1.1.2",
     "webpack": "^4.41.5",
     "webpack-bundle-analyzer": "^3.6.0",
