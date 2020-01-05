@@ -40,3 +40,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
     - use command panel and type "format" to use the Prettier commands
     - enable "formatOnSave" in settings to format automatically on save
 26. avoid common javascript errors with eslint
+27. aria check for accessibility issues in jsx with the jsx a11y eslint plugin

@@ -13,6 +13,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>HELLO WORLD</h1>
+        {/* <img alt="company logo" src="./logo.png" /> */}
         <h2 className={this.state.count > 10 ? 'warning' : null}>
           Count:{this.state.count}
         </h2>
