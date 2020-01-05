@@ -5,10 +5,7 @@ import '@babel/polyfill';
 
 import App from './App';
 import DefaultErrorBoundary from './DefaultErrorBoundary';
-import getGreeting from './greet';
 import './style.css';
-
-console.log(getGreeting('world'));
 
 if (process.env.NODE_ENV === 'development') {
   const axe = require('react-axe');

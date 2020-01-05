@@ -46,3 +46,5 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 30. react create an error boundary for a react app
 31. aria check for accessibility issues in the browser with react axe
 32. react define prop types for a react class component
+33. git create a new project by cloning the boilerplate project
+    - use "git clone --depth=1" to get only the last commit
