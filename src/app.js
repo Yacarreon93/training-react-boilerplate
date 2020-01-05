@@ -3,6 +3,8 @@ import { hot } from 'react-hot-loader';
 
 const Warning = React.lazy(() => import('./Warning'));
 
+// const a = 'A'; // this will cause an eslint error, so, husky will prevents the commit
+
 class App extends React.Component {
   state = {
     count: 0

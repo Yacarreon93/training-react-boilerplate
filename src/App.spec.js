@@ -12,4 +12,9 @@ describe('App', () => {
     render(<App />);
     expect(screen.getByText('HELLO WORLD')).toBeInTheDocument();
   });
+
+  // this will cause a jest error, so, husky will prevents the commit
+  // it('Fails', () => {
+  //   expect(true).toBe(false);
+  // });
 });
