@@ -44,3 +44,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 28. git run linting tests and prettier in git hooks with husky
 29. react avoid deprecated react apis with react strictmode
 30. react create an error boundary for a react app
+31. aria check for accessibility issues in the browser with react axe
