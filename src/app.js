@@ -17,6 +17,9 @@ class App extends React.Component {
 
   render() {
     // debugger //turns on browser debugger
+
+    // throw new Error('boom!'); // this will be catch by the DefaultErrorBoundary
+
     return (
       <div>
         <h1>HELLO WORLD</h1>
