@@ -7,16 +7,16 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 1.  git initialize an npm project and git repository
 2.  webpack install webpack and create a default bundle
     - "node_modules/.bin" has all the programs
-    - It's possible to run webpack with the command: "node_modules/.bin/webpack"
+    - it's possible to run webpack with the command: "node_modules/.bin/webpack"
 3.  git add a project and push changes to github with git
 4.  webpack explicitly define an entry point with a webpack configuration file
 5.  webpack control the output of webpack with the mode setting
-    - By default webpack will build in "production" mode
-    - Use "mode" option to toggle between "production" and "development" mode build
-    - It's possible to send options to npm scripts, eg: "npm run build -- --mode production"
+    - by default webpack will build in "production" mode
+    - use "mode" option to toggle between "production" and "development" mode build
+    - it's possible to send options to npm scripts, eg: "npm run build -- --mode production"
 6.  babel transform modern javascript features with babel
-    - Use "$(npm bin)" istead of "node_modules", eg: $(npm bin)/babel ./src/greet.js
-    - "$(npm bin)/babel ./src/greet.js --presets=@babel/preset-env
+    - use "$(npm bin)" istead of "node_modules", eg: $(npm bin)/babel ./src/greet.js
+    - "\$(npm bin)/babel ./src/greet.js --presets=@babel/preset-env
 7.  babel configure webpack to load javascript files through babel with babel loader
 8.  react configure babel for react with preset react
 9.  webpack create separate webpack configs for development and production with webpack merge
@@ -36,3 +36,6 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 22. jest run a simple test with jest in a react app
 23. jest set up tests that render a react component with jest and babel
 24. jest set up testing globals in an application with jest
+25. configure prettier to automatically format code
+    - use command panel and type "format" to use the Prettier commands
+    - enable "formatOnSave" in settings to format automatically on save
