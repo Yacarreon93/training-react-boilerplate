@@ -9,4 +9,9 @@ import './style.css';
 
 console.log(getGreeting('world'));
 
-ReactDOM.render(<App />, document.getElementById('app'));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('app')
+);

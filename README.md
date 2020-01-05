@@ -42,3 +42,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 26. avoid common javascript errors with eslint
 27. aria check for accessibility issues in jsx with the jsx a11y eslint plugin
 28. git run linting tests and prettier in git hooks with husky
+29. react avoid deprecated react apis with react strictmode

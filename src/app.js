@@ -10,6 +10,11 @@ class App extends React.Component {
     count: 0
   };
 
+  // this will throw an strict mode warning
+  // UNSAFE_componentWillMount() {
+  //   console.log('componentWillMount');
+  // }
+
   render() {
     // debugger //turns on browser debugger
     return (
