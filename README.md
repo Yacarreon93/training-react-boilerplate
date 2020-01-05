@@ -39,3 +39,4 @@ Course > [egghead](https://egghead.io/courses/modern-javascript-tooling-with-rea
 25. configure prettier to automatically format code
     - use command panel and type "format" to use the Prettier commands
     - enable "formatOnSave" in settings to format automatically on save
+26. avoid common javascript errors with eslint
